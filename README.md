@@ -1,5 +1,4 @@
-# technical-report
-Technical Writing Sample & Report // Python, Data Modeling Lab Report
+# technical-report-data-analysis
 
 To see the data analysis & coding behind the report, see the jupyter notebook: "Laplace Model Analysis.ipynb"
 
