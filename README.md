@@ -5,4 +5,4 @@ To see the data analysis & coding behind the report, see the jupyter notebook: "
 
 
 
-To see the report: "technical_writing_sample_laplace.pdf"
+To see the written report: "technical_writing_sample_laplace.pdf"
